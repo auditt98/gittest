@@ -4,7 +4,7 @@ This branch is created based on the development branch: develop.
 
 Develop is based on main branch.
 
-There's also a testing branch called test, which serves as a test.
+There's also a testing branch called tet, which serves as a test.
 
 Hello world 123;
 
