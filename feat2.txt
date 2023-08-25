@@ -1,6 +1,0 @@
-Hello this is feat2
-
-
-This file is specificallly meant for feat2.
-
-Feat 2 updates feat1 file and created a new file.
