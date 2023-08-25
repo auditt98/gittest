@@ -1,1 +1,3 @@
-Feat2
+Now Feat2 is going to be extended
+
+Some preparation for Feat3
