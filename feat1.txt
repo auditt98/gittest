@@ -1,11 +1,1 @@
-Hello this is the feature 1 branch code.
-
-This branch is created based on the development branch: develop.
-
-Develop is based on main branch.
-
-There's also a testing branch called tet, which serves as a test.
-
-Hello world 123;
-
-Now I will commit code to feat1
+Feature 1
